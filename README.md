@@ -8,7 +8,7 @@ college blog application created with python
 -js
 
 
-Author - kaushik dolui
+## Author - kaushik dolui
 
 ## Features
 
